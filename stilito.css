@@ -1,0 +1,21 @@
+body {
+    background-color: #f8f9fa; /* Color de fondo suave */
+}
+
+h1 {
+    color: #007bff; /* Color de encabezado */
+}
+
+.card {
+    border: 1px solid #007bff; /* Borde del card */
+    border-radius: 0.5rem; /* Esquinas redondeadas */
+}
+
+footer {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
